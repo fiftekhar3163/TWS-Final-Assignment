@@ -1,22 +1,22 @@
-name: Jashanpreet Kaur
-email: jashanpree@gmail.com
-phone: 421-786-6782
+name:Â Jashanpreet Kaur
+email:Â jashanpree@gmail.com
+phone:Â 421-786-6782
 
 issue details:
 description of the problem: I am currently working remotely and experiencing some difficulties with my VPN connection for safe access to company's network.
-error message: showing error 1000 along with a red light
-operating system: the operating system is windows 10
-VPN client:  OpenVPN
+error message:Â showing error 1000 along with a red light
+operating system:Â the operating system is windows 10
+VPN client:Â Â OpenVPN
 
 Additional details:
-steps taken: rebooting the device
-                     checked firewall and antivirus status
+steps taken:Â rebooting the device
+checked firewall and antivirus status
 
 thank you for your prompt attention to this matter. I appreciate your assistance in considering and resolving this issue.
 
 best regards,
 Jashanpreet Kaur
 apex innovations
-421-786-6782 
- jashanpree@gmail.com
+421-786-6782Â 
+jashanpree@gmail.com
 
