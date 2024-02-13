@@ -1,0 +1,36 @@
+
+Title: Unable to establish a VPN connection when working from home.
+
+Ticket Number: IT-13022024 
+
+Priority: Low 
+
+Status: Open 
+
+Created By: Dupanshu
+
+Date Created: February 13, 2024, 9:46 AM 
+
+User Impact: Unable to connect to the VPN while working on a task requiring VPN connection.
+
+Observations: 
+The VPN network connecting software doesn't start even after trying again and again. 
+The software interface is visible but it's not able to connect to the VPN.
+
+Details:
+Device: ASUS VivoBook 
+Product ID: 00325-97259-80644-AAOEM
+Operating System: Windows 11
+VPN Software: Nord VPN
+Error Message: No error message shown.
+
+Troubleshooting Steps Taken: 
+Tried restarting device.
+ Tried reinstalling VPN.
+Checked network settings.
+
+Next Steps: Please analyze the problem and assist me with the solution of the problem.
+
+Sincerely,
+DUPANSHU
+200-600-5001
