@@ -1,0 +1,37 @@
+Apex Innovations
+IT Support Department
+
+Subject: Establish VPN Connection for Remote Work
+
+Employees working remotely need access to the company's data and resources. Therefore, a secure VPN connection is needed to work efficiently from home.
+
+POTENTIAL IMPACT:
+A safe and secure VPN connection is extremely necessary as it:
+ensures the confidentiality and secure access to the company's sensitive data.
+protects instances including unauthorized access and data leakage.
+boosts productivity by easing access to important files and systems.
+
+ACTION REQUIRED:
+1. Establish a VPN connection for remote access to ensure secure transmission of data between employees' home networks and the company's internal network.
+2. Configure VPN settings to enable seamless and secure access to company resources, ensuring compatibility with various operating systems and devices.
+3. Communicate VPN setup instructions and guidelines to all employees who will be working remotely.
+4. Test the VPN connection thoroughly to ensure reliability, security, and optimal performance.
+5. Provide regular updates on the progress of VPN setup and notify employees upon successful implementation.
+
+DETAILS FOR VPN SETUP:
+All required details to establish and configure the VPN are mentioned below:
+    Username: Navjot0210@
+    Department: Finance
+    Contact: 431-256-4232
+
+DEADLINE:
+This VPN connection is crucial for maintaining the security and productivity of remote work operations. So, prioritize this ticket accordingly and aim to carry out the installation process within the next five business days.
+
+Thank you for your assistance.
+
+Regards,
+
+Navjot Kaur
+Finance Manager
+Apex Innovations
+431-256-4232
